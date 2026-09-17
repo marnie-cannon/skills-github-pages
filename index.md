@@ -1,3 +1,6 @@
----
-title: Welcome to my blog!
----
+
+# Welcome to my website!
+
+**Behold** as I *learn* things! 
+
+
